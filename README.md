@@ -99,6 +99,6 @@ This project is open-source and available under the MIT License.
 
 Shubham Gupta
 💼 Assistant Software Engineer — Montran India
-🔗 LinkedIn[https://www.linkedin.com/in/shubham-gupta-246426201/]
+🔗 [LinkedIn](https://www.linkedin.com/in/shubham-gupta-246426201/)
 
 📧 shubhamrg30@example.com
