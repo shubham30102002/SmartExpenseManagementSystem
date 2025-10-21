@@ -31,9 +31,8 @@ A full-stack **Spring Boot** application for managing corporate team expenses se
 |--------|-------------|
 | Backend | Spring Boot 3+, Spring MVC |
 | Security | Spring Security + JWT |
-| Caching | Spring Cache (Caffeine / Ehcache) |
-| Persistence | Spring Data JPA + Hibernate |
-| Database | MySQL / PostgreSQL |
+| Caching | InMemory Caching |
+| Database | Oracle SQL |
 | Mail | JavaMailSender (SMTP) |
 | Monitoring | Spring AOP (logging aspect) |
 | Build Tool | Maven |
